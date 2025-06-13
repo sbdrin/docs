@@ -21,24 +21,9 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
    - 点击右上角的 `Code` 按钮，选择 `Codespaces`。
    - 点击 `New codespace`，选择合适的机器配置（默认配置通常足够）。
    - 点击 `Create`，等待 Codespace 初始化完成。
-   - ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/YnjDHJtzB8Y3gbLU.png)
+![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/YnjDHJtzB8Y3gbLU.png)
 
-### （二）使用内置环境
-- **Python 环境**：Codespace 自带 Python 环境，可以直接运行 Python 脚本。
-  ```bash
-  python --version
-  ```
-- **Node.js 环境**：支持 Node.js 开发，可以直接运行 Node.js 项目。
-  ```bash
-  node --version
-  npm --version
-  ```
-- **Docker 环境**：支持 Docker 容器化开发。
-  ```bash
-  docker --version
-  ```
-
-### （三）通过 Docker 部署 KasmWeb 虚拟浏览器
+### （二）通过 Docker 部署 KasmWeb 虚拟浏览器
 1. **拉取 KasmWeb 镜像**：
    ```bash
    docker pull kasmtech/kasm_workspaces:latest
@@ -69,6 +54,6 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。希望本文能帮助你更地使用 GitHub Codespaces。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAzNTUwNzgsNDc0NTk3ODY0LC0xMT
-Q3OTg1ODI1LDEwMzQ0NDM4NjRdfQ==
+eyJoaXN0b3J5IjpbLTE4NDU5MTgwMCw0NzQ1OTc4NjQsLTExND
+c5ODU4MjUsMTAzNDQ0Mzg2NF19
 -->
