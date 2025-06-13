@@ -8,7 +8,8 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 - **多语言支持**：内置 Python、Node.js 等常用开发环境，支持多种编程语言。
 - **与 VS Code 无缝集成**：支持在浏览器中直接使用 VS Code 的功能，也可以将 Codespace 连接到本地的 VS Code。
 - **Docker 部署**：内置 Docker 与 Docker Compose，可部署任意docker镜像。
-- **高网速高性能**：。
+- **高网速高性能**：2核4G或4核8G可选。
+- **高网速高性能**：2核4G或4核8G可选。
 - **免费时长**：每月提供 120 小时的免费使用时长，满足日常开发需求。
 
 ## 三、设置与使用
@@ -67,6 +68,6 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。希望本文能帮助你更地使用 GitHub Codespaces。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM5NTEzMzEsLTExNDc5ODU4MjUsMT
-AzNDQ0Mzg2NF19
+eyJoaXN0b3J5IjpbNDc0NTk3ODY0LC0xMTQ3OTg1ODI1LDEwMz
+Q0NDM4NjRdfQ==
 -->
