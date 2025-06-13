@@ -7,7 +7,7 @@
 StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您的所有文件都会自动保存在本地并且可以**离线访问！**
 
 ## 创建文件和文件夹
-
+[图片上传失败...(image-XKQ7K4spwjny7Hqf)]
 使用导航栏左边的文件夹图标可以访问文件资源管理器。您可以通过单击文件资源管理器中的 **创建文件** 图标来创建新文件。您还可以通过单击 **创建文件夹** 图标来创建文件夹。
 
 ## 切换到另一个文件
@@ -144,6 +144,6 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNDM3NDkwLDE0NTgxODgwNzgsMTc0Nz
-kwNjg4MywyNjkzNTgyMjJdfQ==
+eyJoaXN0b3J5IjpbMTc3MjEyMjM5NSw5MjA0Mzc0OTAsMTQ1OD
+E4ODA3OCwxNzQ3OTA2ODgzLDI2OTM1ODIyMl19
 -->
