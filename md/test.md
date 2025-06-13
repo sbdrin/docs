@@ -84,7 +84,7 @@ StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您�
 > **注意：** 如果您没有要同步的文件，**立即同步**按钮将被禁用。
 
 ## 管理文件同步
-
+![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/master/imgs/2025-06-13/1BkqSyq2NPHJxSVR.png)
 由于一个文件可以与多个位置同步，您可以通过单击**同步**子菜单中的**文件同步**列出和管理同步位置。这允许您列出和删除链接到您的文件的同步位置。
 [图片上传失败...(image-9KsxqZDAAWanfk78)]
 # Markdown扩展
@@ -144,6 +144,6 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODE4ODA3OCwxNzQ3OTA2ODgzLDI2OT
-M1ODIyMl19
+eyJoaXN0b3J5IjpbOTIwNDM3NDkwLDE0NTgxODgwNzgsMTc0Nz
+kwNjg4MywyNjkzNTgyMjJdfQ==
 -->
