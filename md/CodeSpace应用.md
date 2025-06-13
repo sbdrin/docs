@@ -37,8 +37,7 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/oTtNbqAgi9M6eloN.png)
 
 ## 四、注意事项
-- **资源限制**：虽然每月有 120 小时的免费时长，但长时间运行可能会消耗较多资源，请合理使用。不用时可关闭 
-- **网络访问**：使用 KasmWeb 虚拟浏览器访问国外站点时，需确保网络环境稳定。
+- **资源限制**：虽然每月有 120 小时的免费时长，但长时间运行可能会消耗较多资源，请合理使用。不用时可关闭 。
 - **数据安全**：不要在 Codespace 中存储敏感数据，定期清理不必要的文件和数据。
 
 ## 五、常见问题
@@ -51,9 +50,9 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 - 点击 `Actions`，选择 `Stop` 停止运行，或选择 `Delete` 删除 Codespace。
 
 ## 六、总结
-GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。希望本文能帮助你更地使用 GitHub Codespaces。
+GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2Mzg3ODQxLDQ3NDU5Nzg2NCwtMTE0Nz
+eyJoaXN0b3J5IjpbNjg5OTk1MDYyLDQ3NDU5Nzg2NCwtMTE0Nz
 k4NTgyNSwxMDM0NDQzODY0XX0=
 -->
