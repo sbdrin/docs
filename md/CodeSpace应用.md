@@ -8,11 +8,11 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 - **多语言支持**：内置 Python、Node.js 等常用开发环境，支持多种编程语言。
 - **与 VS Code 无缝集成**：支持在浏览器中直接使用 VS Code 的功能，也可以将 Codespace 连接到本地的 VS Code。
 - **Docker 部署**：内置 Docker 与 Docker Compose，可部署任意docker镜像。
-- **高网速高性能**：2核4G或4核8G可选。
-- **高网速高性能**：2核4G或4核8G可选。
+- **高性能**：2核8G或4核16G可选。你甚至可以用它来部署win11镜像。
+- **国外网速**：可选择不同区域的环境。
 - **免费时长**：每月提供 120 小时的免费使用时长，满足日常开发需求。
 
-## 三、设置与使用
+## 三、Docker安装虚拟浏览器
 
 ### （一）创建 Codespace
 1. **登录 GitHub**：访问 [GitHub 官网](https://github.com/) 并登录你的账号。
@@ -21,6 +21,7 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
    - 点击右上角的 `Code` 按钮，选择 `Codespaces`。
    - 点击 `New codespace`，选择合适的机器配置（默认配置通常足够）。
    - 点击 `Create`，等待 Codespace 初始化完成。
+   - ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/YnjDHJtzB8Y3gbLU.png)
 
 ### （二）使用内置环境
 - **Python 环境**：Codespace 自带 Python 环境，可以直接运行 Python 脚本。
@@ -68,6 +69,6 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。希望本文能帮助你更地使用 GitHub Codespaces。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NTk3ODY0LC0xMTQ3OTg1ODI1LDEwMz
-Q0NDM4NjRdfQ==
+eyJoaXN0b3J5IjpbLTEyNjAzNTUwNzgsNDc0NTk3ODY0LC0xMT
+Q3OTg1ODI1LDEwMzQ0NDM4NjRdfQ==
 -->
