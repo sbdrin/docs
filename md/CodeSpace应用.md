@@ -1,22 +1,6 @@
 
-GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏览器或 Visual Studio Code 中直接编写、测试和调试代码，无需在本地设置复杂的开发环境。
-
-### 核心特点
-- **容器化环境**：每个 Codespace 都运行在一个隔离的 Docker 容器中，包含项目所需的所有工具和依赖。
-- **与 GitHub 深度集成**：可以直接从 GitHub 仓库创建 Codespace，并且支持从模板或任何分支启动。
-- **配置即代码**：通过在仓库中添加 `.devcontainer.json` 配置文件，可以定义开发环境，包括基础镜像、VS Code 插件和项目设置。
-- **多平台支持**：支持多种编程语言和工具，并且可以在任何设备上通过浏览器或 VS Code 访问。
-
-### 使用场景
-- **快速开发**：开发者可以立即开始编码，无需花费时间设置本地开发环境。
-- **团队协作**：团队成员可以共享一致的开发环境，减少因环境差异导致的问题。
-- **教学与培训**：教师可以为学生提供统一的开发环境，减少环境配置的时间。
-
-### 自定义与扩展
-- **自定义镜像**：可以通过指定 Docker 镜像或提供自定义 Dockerfile 来构建开发环境。
-- **插件与扩展**：支持安装 VS Code 插件，以满足不同开发需求。
-
-GitHub Codespaces 提供了一种灵活、高效的云端开发方式，特别适合需要快速启动项目、团队协作以及教学等场景。
+GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏览器或 Visual Studio Code 中直接编写、测试和调试代码，无需在本地设置复杂的开发环境。其自带了python, node及docker环境
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc5ODU4MjUsMTAzNDQ0Mzg2NF19
+eyJoaXN0b3J5IjpbLTYzODk1ODc5OCwtMTE0Nzk4NTgyNSwxMD
+M0NDQzODY0XX0=
 -->
