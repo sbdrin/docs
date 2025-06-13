@@ -28,15 +28,13 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
    ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/hbbecxkx9vgqS0xS.png)
 
 2. **运行 KasmWeb 容器**：
-   ```bash
-   ```bash
+```bash
 docker-compose up -d
 ```
-   ```
-
 3. **设置端口可见**：
 ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/6vRoObaVQi3IbSnr.png)
-3. **访问 KasmWeb**：
+
+4. **访问 KasmWeb**：
 ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/oTtNbqAgi9M6eloN.png)
 
 ## 四、注意事项
@@ -56,6 +54,6 @@ docker-compose up -d
 GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NTI3MjAyLC0xMDMyMTA2OTM2LDQ3ND
-U5Nzg2NCwtMTE0Nzk4NTgyNSwxMDM0NDQzODY0XX0=
+eyJoaXN0b3J5IjpbMTk1NTIxNTI0NSwtMTAzMjEwNjkzNiw0Nz
+Q1OTc4NjQsLTExNDc5ODU4MjUsMTAzNDQ0Mzg2NF19
 -->
