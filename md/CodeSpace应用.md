@@ -26,6 +26,7 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 ### （二）通过 Docker 部署 KasmWeb 虚拟浏览器
 1. **创建docker-compose.yml**：
    ![输入图片说明](https://raw.githubusercontent.com/sbdrin/docs/main/imgs/2025-06-13/hbbecxkx9vgqS0xS.png)
+
 2. **运行 KasmWeb 容器**：
    ```bash
    docker run -d -p 80:80 kasmtech/kasm_workspaces
@@ -53,6 +54,6 @@ GitHub Codespaces 是一个基于云端的开发环境，允许开发者在浏�
 GitHub Codespaces 提供了一个强大且便捷的云端开发环境，适合快速开发和测试项目。通过 Docker 部署 KasmWeb 虚拟浏览器，还可以实现对国外站点的访问，进一步扩展了其应用场景。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5OTk1MDYyLDQ3NDU5Nzg2NCwtMTE0Nz
-k4NTgyNSwxMDM0NDQzODY0XX0=
+eyJoaXN0b3J5IjpbLTEwMzIxMDY5MzYsNDc0NTk3ODY0LC0xMT
+Q3OTg1ODI1LDEwMzQ0NDM4NjRdfQ==
 -->
